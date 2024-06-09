@@ -16,5 +16,6 @@ docker build -t go_app .
 ### Running it 
 
 ```
-docker run -it rm  go_app
+docker run -it --rm  go_app
 ```
+
